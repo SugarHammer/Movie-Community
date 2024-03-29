@@ -28,25 +28,25 @@ SSM（Spring+SpringMvc+Mybatis）+ Mysql
 
 ### 演示截图
 #### 算法机制及项目框架演示
-
+![输入图片说明](photo/%E7%AE%97%E6%B3%95%E5%8F%8A%E9%A1%B9%E7%9B%AE%E6%A1%86%E6%9E%B6%E6%BC%94%E7%A4%BA.gif)
 
 #### 未登录游客功能
-
+![输入图片说明](photo/1%E6%9C%AA%E7%99%BB%E5%BD%95%E6%B8%B8%E5%AE%A2%E5%8A%9F%E8%83%BD.gif)
 
 #### 登录用户个人中心
-
+![输入图片说明](photo/2%E7%99%BB%E5%BD%95%E7%94%A8%E6%88%B7%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.gif)
 
 #### 后台管理功能-1
-
+![输入图片说明](photo/3%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E5%8A%9F%E8%83%BD-1.gif)
 
 #### 后台管理功能-2
-
+![输入图片说明](photo/4%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E5%8A%9F%E8%83%BD-2.gif)
 
 #### 后台管理功能-3
-
+![输入图片说明](photo/5%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E5%8A%9F%E8%83%BD-3.gif)
 
 #### 代码数据库
-
+![输入图片说明](photo/%E4%BB%A3%E7%A0%81%E6%95%B0%E6%8D%AE%E5%BA%93.gif)
 
 
 ### 环境需求
@@ -55,10 +55,11 @@ SSM（Spring+SpringMvc+Mybatis）+ Mysql
 ### 项目支持
 - 项目的发展，离不开大家得支持~！~
 - 也可以请作者喝一杯咖啡:)
-
+![输入图片说明](photo/0-%E5%BE%AE%E4%BF%A1_2.png)
+![输入图片说明](photo/0-%E6%94%AF%E4%BB%98%E5%AE%9D_2.png)
 
 ## 有项目修改、安装调试需求 请联系微信
-
+![输入图片说明](photo/0-WeChat.png)
 
 ## 其他项目定制加微☝☝☝
 
