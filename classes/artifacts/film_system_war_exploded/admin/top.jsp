@@ -8,7 +8,7 @@
 	<div class="wrapper" style="margin: 0 15px;">
 		<div class="welcome">
 			<a title="">
-				<img src="themes/xecmoban_haier2015/images/logo.jpeg" style="height:26px;margin: 0;" /> 
+				<img src="themes/xecmoban_haier2015/images/logo11.png" style="height:26px;margin: 0;" />
 				<span style="    color: white;
     font-size: 15px;
     font-weight: bold;">影院订票系统后台管理</span>

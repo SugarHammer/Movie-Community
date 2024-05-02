@@ -18,7 +18,7 @@
 		</p>
 		-->
 		<p class="p-copyright">
-			&copy; 2021  版权所有 &nbsp; |   &nbsp;
+			&copy; 2024  版权所有 &nbsp; |   &nbsp;
 			<a href="admin/index.jsp" target="_blank">影院订票系统后台管理</a>
 		</p>
 	</div>

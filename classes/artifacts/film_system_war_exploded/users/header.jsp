@@ -10,9 +10,9 @@
 
 <div class="ng-nav-bar" style="height:50x; width:1200px">
 	<div class="block">
-	
+
 		<div class="ng-nav-index" >
-		<img src="themes/xecmoban_haier2015/images/logo.jpeg" style="height:50px; width:50px;vertical-align:middle; float:left;" /> 
+		<img src="themes/xecmoban_haier2015/images/logo11.png" style="height:50px; width:50px;vertical-align:middle; float:left;" />
 			<ul class="ng-nav">
 				<li><a href="index.jsp" class="cur">首页</a></li>
 				<li><a href="index/article.action" class="cur">网站公告</a></li>

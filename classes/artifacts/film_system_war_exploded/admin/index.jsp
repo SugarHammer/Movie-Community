@@ -31,7 +31,7 @@
 
 <body onkeydown="keyLogin()">
     <div class="login_box">
-        <div class="login_l_img"><img src="${pageContext.request.contextPath}/images/login-img.png"></div>
+        <div class="login_l_img"><img src="${pageContext.request.contextPath}/images/login-img2.png"></div>
         <div class="login">
             <div class="login_logo"><img src="${pageContext.request.contextPath}/images/login_logo.png"></div>
             <div class="login_name">
